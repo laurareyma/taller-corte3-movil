@@ -2,10 +2,6 @@
 
 Mini-juego en **React Native (Expo)** para demostrar visualmente cómo funciona **Redux Toolkit**: cada acción despachada en una zona de la pantalla provoca reacciones inmediatas en otras zonas independientes, sin pasar props entre ellas.
 
-> Taller práctico — Desarrollo Móvil, Universidad de La Sabana (trabajo individual).
-
-📹 **Video explicativo:** _(agregar enlace)_
-
 ---
 
 ## Stack
