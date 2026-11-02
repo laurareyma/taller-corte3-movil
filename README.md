@@ -21,7 +21,8 @@ Mini-juego en **React Native (Expo)** para demostrar visualmente cómo funciona 
 ## Cómo ejecutarlo
 
 ```bash
-cd heroforge-rpg
+git clone https://github.com/laurareyma/taller-corte3-movil.git
+cd taller-corte3-movil
 npm install
 npx expo start
 ```
